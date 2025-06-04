@@ -2,9 +2,7 @@
 File:    pytzee.py
 Author:  Vidal Bickersteth
 Date:    11/01/2024
-Section: 16-DIS(1383)
-E-mail:  vidalb1@umbc.edu
-Description: This program computes the real pytzee game in a single-player version.
+Description: This program computes the real Pytzee game in a single-player version.
 """
 
 import random
